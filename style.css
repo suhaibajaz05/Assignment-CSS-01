@@ -1,0 +1,17 @@
+.box-light {
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    display: inline-block;
+    font-size: 80px;
+    text-align: center;
+}
+
+.box-dark {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    display: inline-block;
+    font-size: 80px;
+    text-align: center;
+}
